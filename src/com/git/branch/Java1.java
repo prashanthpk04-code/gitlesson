@@ -9,9 +9,14 @@ package com.git.branch;
  */
 public class Java1 {
 	
-	public void main()
+	public void demo()
 	{
-		System.out.println();
+		System.out.println("branch issue");
+		System.out.println("add new statement  ");
+		
+	}
+		public void main()
+	{
 		System.out.println();
 		System.out.println();
 	}
