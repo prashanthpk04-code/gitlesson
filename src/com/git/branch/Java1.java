@@ -12,6 +12,8 @@ public class Java1 {
 	public void demo()
 	{
 		System.out.println("branch issue");
+		System.out.println("add new statement  ");
+		
 	}
 
 }
