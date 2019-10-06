@@ -8,5 +8,10 @@ package com.git.branch;
  *
  */
 public class Java1 {
+	
+	public void demo()
+	{
+		
+	}
 
 }
