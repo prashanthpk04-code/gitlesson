@@ -15,5 +15,11 @@ public class Java1 {
 		System.out.println("add new statement  ");
 		
 	}
+		public void main()
+	{
+		System.out.println();
+		System.out.println();
+		System.out.println();
+	}
 
 }
