@@ -6,5 +6,10 @@ public class PullRequest {
 	{
 		
 	}
+	
+	public void test2()
+	{
+		
+	}
 
 }
