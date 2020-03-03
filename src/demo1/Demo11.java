@@ -11,4 +11,8 @@ public class Demo11
 	int afs54;
 	
 	
+	int asfs;
+	int hgf;
+	int sf;
+	
 }
