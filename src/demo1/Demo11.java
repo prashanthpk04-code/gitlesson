@@ -7,4 +7,8 @@ public class Demo11
 	int y,fsf,asf,fsfas;
 	int d;
 	
+	int asfs;
+	int hgf;
+	int sf;
+	
 }
